@@ -18,6 +18,10 @@ https://play.google.com/store/apps/details?id=com.daisukeconan.MathBattleCopy
 # DEMO
 <img src="MathGame_DEMO.gif">  
 
+# 工夫したこと
+- 計算が得意な人用にタイマーモードを作り、どれだけ耐えられるかを試せるようにしました。
+- 緊張感を出すために、オーバーラインにパズルが触れてもすぐにゲーム終了にせずに、5秒間の間に素早くパズルを消していけばセーフになるようにしました。
+
 <br>
 <br>
 
